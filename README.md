@@ -12,6 +12,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
 ## Table of Contents
 
 - Course 1 - Neural Networks and Deep Learning
+
   - Week 1 - Introduction to Deep Learning
     1. Quiz Introduction to Deep Learning
   - Week 2 - Neural Network Basics
@@ -25,7 +26,9 @@ This repo contains all my work for this specialization. All the code base, quiz 
     1. Key Concepts on Deep Neural Networks
     2. Programming Assignment: Building your Deep Neural Network: Step by Step
     3. Programming Assignment: Deep Neural Network - Application 
+
 - Course 2 - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+
   - Week 1 - Practical Aspects of Deep Learning
     1. Quiz: Practical aspects of Deep Learning
     2. Programming Assignment: Initialization
@@ -37,12 +40,16 @@ This repo contains all my work for this specialization. All the code base, quiz 
   - Week 3 - Hyperparameter Tuning, Batch Normalization and Programming Frameworks
     1. Quiz: Hyperparameter tuning, Batch Normalization, Programming Frameworks
     2. Programming Assignment: TensorFlow Introduction
+
 - Course 3 - Structuring Machine Learning Projects
+
   - Week 1 - ML Strategy
     1. Quiz: Bird Recognition in the City of Peacetopia (Case Study)    
   - Week 2 - ML Strategy
     1. Quiz: Autonomous Driving (Case Study)        
+
 - Course 4 - Convolutional Neural Networks
+
   - Week 1 - Foundations of Convolutional Neural Networks
     1. Quiz: The Basics of ConvNets
     2. Programming Assignment: Convolutional Model, Step by Step
@@ -60,6 +67,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
     1. Quiz: Special Applications: Face Recognition & Neural Style Transfer
     2. Programming Assignment: Face Recognition
     3. Programming Assignment: Art Generation with Neural Style Transfer
+
 - Course 5 - Sequence Models
   _TODO_
 
