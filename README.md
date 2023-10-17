@@ -1,9 +1,9 @@
 # Deep Learning Specialization on Coursera
 Deep Learning Specialization 2023 by Andrew Ng on Coursera.
 
-_Date Started:_ 2023-08-01 <br>
-_Date Completed:_ 2023-10-31 <br>
-_Instructor:_ [Andrew Ng](http://www.andrewng.org/)
+__Date Started:__ 2023-08-01 <br>
+__Date Completed:__ 2023-10-31 <br>
+__Instructor:__ [Andrew Ng](http://www.andrewng.org/)
 
 ## Introduction
 
