@@ -69,7 +69,26 @@ This repo contains all my work for this specialization. All the code base, quiz 
     3. Programming Assignment: Art Generation with Neural Style Transfer
 
 - Course 5 - Sequence Models
-  _TODO_
+
+  - Week 1 - Recurrent Neural Networks
+  1. Quiz: Recurrent Neural Networks
+  2. Programming Assignment: Building your Recurrent Neural Network - Step by Step
+  3. Programming Assignment: Dinosaur Island-Character-Level Language Modeling
+  4. Programming Assignment: Jazz Improvisation with LSTM
+  - Week 2 - Natural Language Processing & Word Embeddings
+  1. Quiz: Natural Language Processing & Word Embeddings
+  2. Programming Assignment: Operations on Word Vectors - Debiasing
+  3. Programming Assignment: Emojify
+  - Week 3 - Sequence Models & Attention Mechanism
+  1. Quiz: Sequence Models & Attention Mechanism
+  2. Programming Assignment: Neural Machine Translation
+  3. Programming Assignment: Trigger Word Detection
+  - Week 4 - Transformer Network
+  1. Quiz: Transformers
+  2. Programming Assignment: Transformers Architecture with TensorFlow
+  3. Lab: Transformer Pre-processing
+  4. Lab: Transformer Network Application: Named-Entity Recognition
+  5. Lab: Transformer Network Application: Question Answering
 
 
 
